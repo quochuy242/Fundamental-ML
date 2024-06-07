@@ -3,14 +3,15 @@
 This repository contains the code and data for a mini-project on facial expression recognition using machine learning algorithms.
 
 ## 📑 Project Policy
-- Team: group should consist of 3-4 students.
+- Team: group should consist of 5 students **(approved by instructor - Tai Ng)**.
 
     |No.| Student Name    | Student ID |
     | --------| -------- | ------- |
-    |1|||
-    |2|||
-    |3|||
-    |4|||
+    |1|Trương Quốc Huy|21110308|
+    |2|Bùi Ngọc Kim Lan|21110330|
+    |3|Huỳnh Thị Diễm Hằng|21110290|
+    |4|Nguyễn Đăng Khoa|21110322|
+    |5|Lê Hoài Tuấn Kiệt|21110326|
 
 - The submission deadline is strict: **11:59 PM** on **June 22nd, 2024**. Commits pushed after this deadline will not be considered.
 
