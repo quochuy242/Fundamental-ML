@@ -51,8 +51,11 @@ The repository is organized into the following directories:
 
 ```sh
 pip install -r requirements.txt
+```
 
-# If you have GPU for training Machine Learning models
+If you have GPU for training Machine Learning models
+
+```sh
 pip install --extra-index-url https://pypi.nvidia.com cuml-cu12
 ```
 
