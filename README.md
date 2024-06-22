@@ -8,14 +8,21 @@ This repository contains the code and data for a mini-project on facial expressi
 1. [📑 Project Policy](#-project-policy)
 2. [📦 Project Structure](#-project-structure)
 3. [📋 Project Description](#-project-description)
+
    3.1. [Prerequisite](#1-prerequisite)
+   
    3.2. [About Dataset](#2-about-dataset)
+
    3.3. [Preprocessing](#3-preprocessing)
+
    3.4. [Feature Extraction](#4-feature-extraction)
+
    3.5. [Classification Performance](#5-classification-performance)
+
    3.6. [Predictions](#6-predictions)
+
    3.7. [References](#7-references)
-4. [⚙️ Usage](#️-usage)
+5. [⚙️ Usage](#️-usage)
 
 ## 📑 Project Policy
 
@@ -74,24 +81,6 @@ and Local Binary Pattern (LBP) features.
 ### 5. Classification Performance
 
 The classification performance of the model is shown in the following table:
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-oi39{background-color:#ffffff;border-color:inherit;font-family:"Courier New", Courier, monospace !important;text-align:left;
-  vertical-align:top}
-.tg .tg-xvll{background-color:#ffffff;border-color:inherit;font-family:"Courier New", Courier, monospace !important;
-  text-align:center;vertical-align:middle}
-.tg .tg-iazd{background-color:#efefef;border-color:inherit;font-family:"Courier New", Courier, monospace !important;
-  font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-r2ay{background-color:#ffffff;border-color:#000000;font-family:"Courier New", Courier, monospace !important;
-  font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-ko76{background-color:#ffffff;border-color:inherit;font-family:"Courier New", Courier, monospace !important;
-  font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
-</style>
 
 <table class="tg"><thead>
   <tr>
